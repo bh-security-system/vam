@@ -1,7 +1,8 @@
 {
   "address": [
     {
-      "post": "https://vam.perfumesperfect.com",
+      "url": "https://vam.perfumesperfect.com",
+      "version": "3.0",
     }
   ]
 }
