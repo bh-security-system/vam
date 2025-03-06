@@ -1,7 +1,10 @@
 {
   "address": [
     {
-      "post": "https://vam.perfumesperfect.com",
+      "post": "https://app.drvap.xyz//api_post.php",
+      "get": "https://app.drvap.xyz/api_get.php",
+      "server": "https://app.drvap.xyz/server_none.png",
+      "user": "https://app.drvap.xyz/user_ban.png"
     }
   ]
 }
